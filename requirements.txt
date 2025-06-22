@@ -1,0 +1,33 @@
+# Autonomous Resume Screening Agent - Dependencies
+# Core AI and ML
+openai==0.28.1
+langchain==0.0.350
+faiss-cpu==1.7.4
+tiktoken==0.5.2
+
+# PDF Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.14
+
+# Data Science and Analysis
+pandas==2.1.4
+numpy==1.24.4
+scikit-learn==1.3.2
+
+# Web and API
+requests==2.31.0
+streamlit==1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+pathlib2==2.3.7
+
+# Optional: For enhanced email simulation
+secure-smtplib==0.1.1
+
+# Development and Testing
+pytest==7.4.3
+black==23.12.1
+flake8==6.1.0
+
+# Note: Install with: pip install -r requirements.txt
