@@ -275,16 +275,6 @@ particularly in Python and cloud platforms. Her background in fintech aligns
 well with our requirements."
 ```
 
-## 🎯 Future Enhancements
-
-### Planned Features
-- [ ] Multi-language resume support
-- [ ] Video/audio resume analysis
-- [ ] Bias detection and mitigation
-- [ ] Interview scheduling automation
-- [ ] Reference checking integration
-- [ ] Salary negotiation insights
-
 ### Technical Improvements
 - [ ] GraphRAG implementation
 - [ ] Fine-tuned models for HR
