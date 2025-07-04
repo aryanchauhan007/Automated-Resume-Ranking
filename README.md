@@ -34,6 +34,8 @@ This project demonstrates **agentic AI thinking** applied to HR automation. The 
 ```
 
 ## ✨ Key Features
+<img width="944" alt="ss1" src="https://github.com/user-attachments/assets/9c504cce-33ec-4df5-b29b-54522840e4dc" />
+
 
 ### 🔍 **Advanced Resume Processing**
 - Multi-format support (PDF, TXT, DOC)
